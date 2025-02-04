@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cipher_tool
- install: pip install pycryptodome --break-system-packages
-=======
 # Cipher Tool
 
 The **Cipher Tool** is a Python-based utility that allows users to encrypt and decrypt both messages and text files using AES-256 encryption. It utilizes the AES algorithm in CBC (Cipher Block Chaining) mode for secure encryption and decryption.
@@ -126,4 +122,3 @@ Feel free to fork the repository, enhance the functionality, and submit a pull r
 
 ## License
 This project is open-source and available for modification and distribution.
->>>>>>> 4a750d2 (Update README.md)
